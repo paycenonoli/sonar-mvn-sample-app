@@ -21,5 +21,5 @@ What is sonar how to get start with it | Example
 # jacoco cmd:
 clean org.jacoco:jacoco-maven-plugin:prepare-agent install
 
-# sonar cmd:
+# Sonar cmd:
 mvn sonar:sonar 
